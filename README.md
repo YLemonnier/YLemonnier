@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @YLemonnier
+- 👀 I’m interested in data and models with machine learning
+- 🌱 I’m currently learning Terraform and CI/CD
+- 📫 How to reach me yann.lemonnier@loreal.com
